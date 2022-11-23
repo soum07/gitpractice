@@ -1,2 +1,6 @@
 this is a text file which contains my name that is soumya vadla
+<<<<<<< HEAD
 kotha line
+=======
+new line into git.txt file 
+>>>>>>> 657988284e791a3d065f630f6fec45ff7275e9a6
